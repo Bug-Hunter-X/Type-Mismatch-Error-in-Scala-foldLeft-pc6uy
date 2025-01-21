@@ -1,0 +1,1 @@
+This repository demonstrates a common Scala coding error involving the `foldLeft` function. The `bug.scala` file contains code that incorrectly uses `foldLeft`, attempting to add integers to a string. The `bugSolution.scala` file shows how to correctly solve the problem using appropriate type handling.
